@@ -2,6 +2,12 @@
 
 This repository contains materials to support an email course of the same name. Details below.
 
+Status [0/4]:
+- [ ] desired end state reached through meandering Jupyter notebook narrative
+- [ ] desired code/notebook states at end of each topic recorded [0/9]
+- [ ] course videos recorded
+- [ ] course videos edited/reviewed/approved
+
 ## Email Course
 
 JSON is a common, convenient medium for data exchange. However, collaborators often find it challenging to similarly exchange the intended meanings of JSON objects, their fields, and their field values. Furthermore, one often wants to search the data in ways that do not fit the JSON object schema as given, or that otherwise require many "joins" across JSON object collections.
