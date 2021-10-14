@@ -8,6 +8,21 @@ Status [0/4]:
 - [ ] course videos recorded
 - [ ] course videos edited/reviewed/approved
 
+## Setup
+
+1. [Install Miniconda](https://conda.io/projects/conda/en/latest/user-guide/install/index.html) on
+   your system.
+2. `make conda-env-create`
+3. `conda activate course-intro-ld-mongo`
+4. `make init`
+5. `make conda-env-ensure-ipython-kernel`
+
+## Launch a new Jupyter Notebook for your work
+
+1. `cd intro_ld_mongo`
+2. `jupyter notebook`
+3. Create a New notebook using the "Python (course-intro-ld-mongo)" kernel.
+
 ## Email Course
 
 JSON is a common, convenient medium for data exchange. However, collaborators often find it challenging to similarly exchange the intended meanings of JSON objects, their fields, and their field values. Furthermore, one often wants to search the data in ways that do not fit the JSON object schema as given, or that otherwise require many "joins" across JSON object collections.

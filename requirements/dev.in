@@ -1,0 +1,4 @@
+-c main.txt
+black
+pytest
+setuptools-scm
