@@ -133,3 +133,6 @@ Untitled.ipynb
 
 # PyCharm
 .idea
+
+# Mac cruft
+.DS_Store

@@ -1,5 +1,7 @@
 import setuptools
 
+import json.encoder
+
 with open("README.md") as f:
     long_description = f.read()
 
