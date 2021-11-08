@@ -57,3 +57,16 @@ Here is an outline of topics I will cover over six (6) emails:
     - Document collection search: MongoDB via the PyMongo driver
 
 To sign up for this free email course, let me know at donny@polyneme.xyz.
+
+## Details of video-lesson recording
+
+I launch `jupyter notebook`, and then open the `template_walkthrough` notebook and an `Untitled`
+notebook alongside it for my work. These windows are side-by side on an external monitor at eye
+level. I have a webcam mounted on the external monitor. I use the Firefox web browser, and I set the
+window size of my working notebook to 1280x720 by going to `about:addons`, opening a developer
+console (option-command-i for me on my mac), and executing `window.resizeTo(1280,720);` in the
+console.
+
+I record my session with Screenflow, via the 1280x720 preset in the crop tool. After recording, I
+enable automatic background removal for the video of me within Screenflow, and I drag the video
+of me to an appropriate location before exporting to mp4.
