@@ -5,7 +5,7 @@ This repository contains materials to support an email course of the same name. 
 Status [1/4]:
 - [x] desired end state reached through meandering Jupyter notebook narrative
 - [x] desired code/notebook states at end of each topic recorded [6/6]
-- [ ] course videos recorded
+- [x] course videos recorded
 - [ ] course videos edited/reviewed/approved
 
 ## Setup
