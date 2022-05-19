@@ -2,11 +2,13 @@
 
 This repository contains materials to support an email course of the same name. Details below.
 
-Status [1/4]:
+Status [3/4]:
 - [x] desired end state reached through meandering Jupyter notebook narrative
 - [x] desired code/notebook states at end of each topic recorded [6/6]
-- [ ] course videos recorded
+- [x] course videos recorded
 - [ ] course videos edited/reviewed/approved
+
+The unedited videos (6 videos, total length ~112 minutes) are publicly available as a YouTube playlist [here](https://youtube.com/playlist?list=PL9QvE4W_ly6NzUSUIpsGJOtFM-aot5H2q).
 
 ## Setup
 
